@@ -1,4 +1,4 @@
-public class NumerosPares{ //Exercicio 05
+public class Ex05NumerosPares{ //Exercicio 05
     public static void main(String [] args){
         int i;
         for(i=1; i<=100; i++){

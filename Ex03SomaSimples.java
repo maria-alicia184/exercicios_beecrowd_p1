@@ -1,4 +1,4 @@
-public class SomaSimples { //Exercício 03
+public class Ex03SomaSimples { //Exercício 03
     public static void main(String [] args){
         int A = 35;
         int B = 10;
